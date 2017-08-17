@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "918955400892",
+    "firebase_url": "https://medchat-d16ab.firebaseio.com",
+    "project_id": "medchat-d16ab",
+    "storage_bucket": "medchat-d16ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918955400892:android:19c8f894f4131181",
+        "android_client_info": {
+          "package_name": "com.example.abhinay.medchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918955400892-5jss9equ7629l008q8970l7711sd9lfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmuHkhwNq35xnDhUyS2zy7ZDub-GDeomo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
